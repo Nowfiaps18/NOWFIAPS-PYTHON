@@ -1,0 +1,1 @@
+['Python can be used on a server to create web applications.\n', 'Python can be used alongside software to create workflows.\n', 'Python can connect to database systems.\n', 'It can also read and modify files.\n', 'Python can be used to handle big data and perform complex mathematics.\n']
